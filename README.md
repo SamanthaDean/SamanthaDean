@@ -2,7 +2,7 @@
 
 I am a Math-Nerd-turned-Data-Analyst with significant experience in the E-commerce and Diagnostics industries. I love to learn new skills and thrive when I am able to tell a story with numbers.
 
-I spent several years working in the Boston area digesting data related to product sales, website activity, marketing spend, distribution costs, inventory holdings, demand forecasts and other operational transactions. I recently moved back to my home-state (Maine!) where I have been focused on identifying global distribution opportunities through various warehousing and logistics analyses.
+I spent several years working in the Boston area digesting data related to product sales, webpage activity, marketing spend, distribution costs, inventory holdings, customer behavior, demand forecasts, profit margin and other operational transactions. I recently moved back to my home-state (Maine!) where I have been focused on identifying global distribution opportunities through various warehousing and logistics analyses.
 
 Here are some additional tid-bits of info about me:
 
