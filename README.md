@@ -1,12 +1,14 @@
 ### Hiya, I'm Sam!
 
-I am a Math-Nerd-turned-Data-Analyst with significant experience in the E-commerce and Diagnostics industries. I love to learn new things and thrive when I am able to tell a story with numbers.
+I am a Math-Nerd-turned-Data-Analyst with significant experience in the E-commerce and Diagnostics industries. I love to learn new skills and thrive when I am able to tell a story with numbers.
 
-Here are some additional bits of info about me:
+I spent several years working in the Boston area digesting data related to product sales, website activity, marketing spend, distribution costs, inventory holdings, demand forecasts and other operational transactions. I recently moved back to my home-state (Maine!) where I have been focused on identifying global distribution opportunities through various warehousing and logistics analyses.
 
-- 🔭 I’m currently working as an Analyst at IDEXX Laboratories with a focus on Warehousing and Logistics
-- 🌱 I’m currently learning Tableau and Alteryx softwares
+Here are some additional tid-bits of info about me:
+
+- 🔭 I’m currently working as an Analyst at IDEXX Laboratories
 - 😄 Pronouns: she/her
+- 🌱 I’m learning how to leverage Tableau and Alteryx softwares
 - ⚡ Fun fact: I can solve a Rubik's Cube without assistance
 
 <!--
